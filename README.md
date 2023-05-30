@@ -1,5 +1,5 @@
 # Instruction Tuning 
-Tuning ChatGLM with Lora to follow instructions.
+Tuning ChatGLM with Lora to follow instructions and slove downstream tasks.
 
 ## Quick links
 
