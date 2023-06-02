@@ -22,7 +22,6 @@ Please make sure your data folder structure look like below.
 ```bash
 Instruction_tuning
   └── datasets
-      │
       └── Your_dataset
           ├── train.json
           ├── dev.json
