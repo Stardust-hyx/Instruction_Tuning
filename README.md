@@ -11,7 +11,7 @@ Tuning ChatGLM with Lora to follow instructions and solve downstream tasks.
 ## Preparation
 
 ### Environment
-To run our code, first make sure your Python>=3.7, then install all the dependency packages by using the following command:
+To run our code, first make sure your Python=3.9, then install all the dependency packages by using the following command:
 
 ```
 pip install -r requirements.txt
